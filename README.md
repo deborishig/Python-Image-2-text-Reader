@@ -1,7 +1,7 @@
 # Python-Image-2-text-Reader
 This is a flask based web application to extract text from images.
 
-Disclaimer: None of the code is mine. I have simply assembled this reader application based on the code of others and in time, I shall attribute the various parts to the various authors.
+# Disclaimer: None of the code is mine. I have simply assembled this reader application based on the code of others and in time, I shall attribute the various parts to the various authors.
 
 The following Python PIP based modules were used:
 
@@ -12,7 +12,7 @@ pyautogui
 datetime
 PIL
 
-Description of the Libraries Used
+# Description of the Libraries Used
 
 OpenCV (Open Source Computer Vision Library: http://opencv.org) is an open-source library that includes several hundreds of computer vision algorithms. The document describes the so-called OpenCV 2.x API, which is essentially a C++ API, as opposed to the C-based OpenCV 1.x API (C API is deprecated and not tested with "C" compiler since OpenCV 2.4 releases)
 
