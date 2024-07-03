@@ -1,7 +1,7 @@
 # Python-Image-2-text-Reader
 This is a flask based web application to extract text from images.
 
-# Disclaimer: None of the code is mine. I have simply assembled this reader application based on the code of others and in time, I shall attribute the various parts to the various authors.
+# Disclaimer: Development using re-usable code.
 
 The following Python PIP based modules were used:
 
